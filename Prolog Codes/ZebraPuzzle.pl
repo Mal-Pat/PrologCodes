@@ -1,6 +1,6 @@
-/*
-Prolog code to solve the Zebra Puzzle.
-Statement of Zebra Puzzle taken from Wikipedia.
+/* 
+   Prolog code to solve the Zebra Puzzle.
+   Statement of Zebra Puzzle taken from Wikipedia.
 */
 
 ordering(Houses) :-
