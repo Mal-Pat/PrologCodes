@@ -5,7 +5,8 @@ The focus here in these codes was on:
 * Herbrand Models
 * Horn Clauses
 * SLD-Resolution
-* Occurs-Check
+* Occurs-Check  
+
 The books followed were:
 * Mathematical Logic in Computer Science (Ben-Ari)
 * Logic Programming with Prolog (Max Bramer)
